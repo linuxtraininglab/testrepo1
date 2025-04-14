@@ -1,5 +1,5 @@
 repository:
-  description: "Updated by settings app"
+  description: "This is a test"
   has_issues: true
 branches:
   - name: main
