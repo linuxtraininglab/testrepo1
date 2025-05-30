@@ -1,6 +1,6 @@
 repository:
-  description: "This is a test"
-  has_issues: true
+  description: "This is another test"
+  has_issues: false
 branches:
   - name: main
     # Branch Protection settings. Set to null to disable
